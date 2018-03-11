@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XFDL version="4.1.0" xmlns:xfdl="http://www.w3.org/TR/NOTE-XFDL" designer="MercuryForms-1.0">	<page sid="PAGE1" title="Requerimento de Segunda Chamada">		<global sid="global">			<label>PAGE1</label>			<fontinfo>				<fontname>Times New Roman</fontname>				<size>12</size>			</fontinfo>		</global>		<label sid="label-0">
+			<itemlocation>
+				<x>16.00</x>
+				<y>341.00</y>
+				<height>75</height>
+				<width>259</width>
+			</itemlocation>
+			<value>Requerimento de Segunda Chamada</value>
+			<justify>center</justify>
+			<fontinfo>
+				<fontname>"Times New Roman"</fontname>
+				<size>20</size>
+				<effect>normal</effect>
+			</fontinfo>
+		</label>		<label sid="label-1">
+			<itemlocation>
+				<x>144.00</x>
+				<y>340.00</y>
+				<height>19</height>
+				<width>73</width>
+			</itemlocation>
+			<value>Nome:</value>
+			<justify>left</justify>
+			<fontinfo>
+				<fontname>"Times New Roman"</fontname>
+				<size>12</size>
+				<effect>normal</effect>
+			</fontinfo>
+		</label>		<field sid="field-2">
+			<itemlocation>
+				<x>192.00</x>
+				<y>340.00</y>
+				<height>61</height>
+				<width>273</width>
+			</itemlocation>
+			<help>Deve-se informar o nome do aluno</help>
+			<justify>left</justify>
+			<fontinfo>
+				<fontname>"Times New Roman"</fontname>
+				<size>15</size>
+				<effect>normal</effect>
+			</fontinfo>
+		</field>		<label sid="label-3">
+			<itemlocation>
+				<x>293.00</x>
+				<y>342.00</y>
+				<height>19</height>
+				<width>73</width>
+			</itemlocation>
+			<value>Curso</value>
+			<justify>left</justify>
+			<fontinfo>
+				<fontname>"Times New Roman"</fontname>
+				<size>12</size>
+				<effect>normal</effect>
+			</fontinfo>
+		</label>		<field sid="field-4">
+			<itemlocation>
+				<x>344.00</x>
+				<y>343.00</y>
+				<height>55</height>
+				<width>257</width>
+			</itemlocation>
+			<justify>left</justify>
+			<fontinfo>
+				<fontname>"Times New Roman"</fontname>
+				<size>15</size>
+				<effect>normal</effect>
+			</fontinfo>
+		</field>	</page>
+</XFDL>

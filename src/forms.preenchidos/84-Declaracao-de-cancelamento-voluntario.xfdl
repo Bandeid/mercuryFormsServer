@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><XFDL xmlns:xfdl="http://www.w3.org/TR/NOTE-XFDL" designer="MercuryForms-1.0" version="4.1.0">
+	<page sid="PAGE1" title="Declaracao-de-cancelamento-voluntario">
+		<global sid="global">
+			<label>PAGE1</label>
+			<fontinfo>
+				<fontname>Times New Roman</fontname>
+				<size>12</size>
+			</fontinfo>
+		</global>
+		<label sid="label-0">
+			<itemlocation>
+				<x>35.00</x>
+				<y>317.00</y>
+				<height>28</height>
+				<width>294</width>
+			</itemlocation>
+			<value>Declaração de Cancelamento Voluntário</value>
+			<help>documento de desistência do aluno</help>
+			<justify>center</justify>
+			<fontinfo>
+				<fontname>Times New Roman</fontname>
+				<size>18</size>
+				<effect>normal</effect>
+			</fontinfo>
+		</label>
+		<field sid="field-1">
+			<itemlocation>
+				<x>108.00</x>
+				<y>219.00</y>
+				<height>56</height>
+				<width>498</width>
+			</itemlocation>
+			<value>Diego Filipe de Paula</value>
+			<label>Nome:</label>
+			<help>Nome do aluno</help>
+			<justify>left</justify>
+			<fontinfo>
+				<fontname>Times New Roman</fontname>
+				<size>15</size>
+				<effect>normal</effect>
+			</fontinfo>
+		</field>
+		<field sid="field-2">
+			<itemlocation>
+				<x>200.00</x>
+				<y>219.00</y>
+				<height>65</height>
+				<width>197</width>
+			</itemlocation>
+			<value>967.300.703-90</value>
+			<label>Cpf:</label>
+			<help>cpf do aluno</help>
+			<justify>left</justify>
+			<fontinfo>
+				<fontname>Times New Roman</fontname>
+				<size>15</size>
+				<effect>normal</effect>
+			</fontinfo>
+		</field>
+		<field sid="field-3">
+			<itemlocation>
+				<x>202.00</x>
+				<y>449.00</y>
+				<height>48</height>
+				<width>260</width>
+			</itemlocation>
+			<value>Sistemas de Informação</value>
+			<label>Curso:</label>
+			<help>curso do aluno</help>
+			<justify>left</justify>
+			<fontinfo>
+				<fontname>Times New Roman</fontname>
+				<size>15</size>
+				<effect>normal</effect>
+			</fontinfo>
+		</field>
+		<field sid="field-4">
+			<itemlocation>
+				<x>299.00</x>
+				<y>220.00</y>
+				<height>62</height>
+				<width>154</width>
+			</itemlocation>
+			<value>5</value>
+			<label>Semestre:</label>
+			<help>semestre atual do aluno</help>
+			<justify>left</justify>
+			<fontinfo>
+				<fontname>Times New Roman</fontname>
+				<size>15</size>
+				<effect>normal</effect>
+			</fontinfo>
+		</field>
+		<field sid="field-5">
+			<itemlocation>
+				<x>299.00</x>
+				<y>450.00</y>
+				<height>62</height>
+				<width>154</width>
+			</itemlocation>
+			<value>40550737331216</value>
+			<label>Matrícula:</label>
+			<help>matrícula do aluno</help>
+			<justify>left</justify>
+			<fontinfo>
+				<fontname>Times New Roman</fontname>
+				<size>15</size>
+				<effect>normal</effect>
+			</fontinfo>
+		</field>
+	</page>
+</XFDL>

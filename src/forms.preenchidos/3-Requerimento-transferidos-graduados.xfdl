@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><XFDL xmlns:xfdl="http://www.w3.org/TR/NOTE-XFDL" designer="MercuryForms-1.0" version="4.1.0">
+	<page sid="PAGE1" title="Requerimento-transferidos-graduados">
+		<global sid="global">
+			<label>PAGE1</label>
+			<fontinfo>
+				<fontname>Times New Roman</fontname>
+				<size>12</size>
+			</fontinfo>
+		</global>
+		<label sid="label-12">
+			<itemlocation>
+				<x>18.00</x>
+				<y>284.00</y>
+				<height>28</height>
+				<width>400</width>
+			</itemlocation>
+			<value>REQUERIMENTO TRANSFERIDOS/GRADUADOS</value>
+			<help/>
+			<justify>left</justify>
+			<fontinfo>
+				<fontname>Times New Roman</fontname>
+				<size>18</size>
+				<effect>normal</effect>
+			</fontinfo>
+		</label>
+		<field sid="field-13">
+			<itemlocation>
+				<x>95.00</x>
+				<y>246.00</y>
+				<height>58</height>
+				<width>460</width>
+			</itemlocation>
+			<value>Isabel Yasmin da Silva</value>
+			<label>Nome:</label>
+			<help>nome do aluno</help>
+			<justify>left</justify>
+			<fontinfo>
+				<fontname>Times New Roman</fontname>
+				<size>15</size>
+				<effect>normal</effect>
+			</fontinfo>
+		</field>
+		<field sid="field-14">
+			<itemlocation>
+				<x>189.00</x>
+				<y>247.00</y>
+				<height>62</height>
+				<width>154</width>
+			</itemlocation>
+			<value>367.131.496-69</value>
+			<label>Cpf:</label>
+			<help>cpf do aluno</help>
+			<justify>left</justify>
+			<fontinfo>
+				<fontname>Times New Roman</fontname>
+				<size>15</size>
+				<effect>normal</effect>
+			</fontinfo>
+		</field>
+		<field sid="field-15">
+			<itemlocation>
+				<x>189.00</x>
+				<y>551.00</y>
+				<height>62</height>
+				<width>154</width>
+			</itemlocation>
+			<value>Zootecnia</value>
+			<label>Curso:</label>
+			<help>Curso do aluno</help>
+			<justify>left</justify>
+			<fontinfo>
+				<fontname>Times New Roman</fontname>
+				<size>15</size>
+				<effect>normal</effect>
+			</fontinfo>
+		</field>
+		<radio sid="radio-16">
+			<itemlocation>
+				<x>299.00</x>
+				<y>245.00</y>
+				<height>31</height>
+				<width>102</width>
+			</itemlocation>
+			<value>off</value>
+			<label>Transferido</label>
+			<help>aluno transferido</help>
+			<group>TRANSF_GRAD</group>
+			<justify>left</justify>
+			<fontinfo>
+				<fontname>Times New Roman</fontname>
+				<size>14</size>
+				<effect>normal</effect>
+			</fontinfo>
+		</radio>
+		<radio sid="radio-17">
+			<itemlocation>
+				<x>301.00</x>
+				<y>415.00</y>
+				<height>31</height>
+				<width>91</width>
+			</itemlocation>
+			<value>off</value>
+			<label>Graduado</label>
+			<help>Aluno graduado</help>
+			<group>TRANSF_GRAD</group>
+			<justify>left</justify>
+			<fontinfo>
+				<fontname>Times New Roman</fontname>
+				<size>14</size>
+				<effect>normal</effect>
+			</fontinfo>
+		</radio>
+	</page>
+</XFDL>

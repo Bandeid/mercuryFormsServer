@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><XFDL xmlns:xfdl="http://www.w3.org/TR/NOTE-XFDL" designer="MercuryForms-1.0" version="4.1.0">
+	<page sid="PAGE1" title="Requerimento-reingresso">
+		<global sid="global">
+			<label>PAGE1</label>
+			<fontinfo>
+				<fontname>Times New Roman</fontname>
+				<size>12</size>
+			</fontinfo>
+		</global>
+		<label sid="label-0">
+			<itemlocation>
+				<x>32.00</x>
+				<y>324.00</y>
+				<height>17</height>
+				<width>292</width>
+			</itemlocation>
+			<value>REQUERIMENTO REINGRESSO</value>
+			<help>documento para o aluno que deseja reingressar, voltar a universidade</help>
+			<justify>left</justify>
+			<fontinfo>
+				<fontname>Times New Roman</fontname>
+				<size>18</size>
+				<effect>normal</effect>
+			</fontinfo>
+		</label>
+		<field sid="field-1">
+			<itemlocation>
+				<x>114.00</x>
+				<y>224.00</y>
+				<height>55</height>
+				<width>417</width>
+			</itemlocation>
+			<value>Leonardo Gabriel André Costa</value>
+			<label>Nome:</label>
+			<help>nome do aluno reingresso</help>
+			<justify>left</justify>
+			<fontinfo>
+				<fontname>Times New Roman</fontname>
+				<size>15</size>
+				<effect>normal</effect>
+			</fontinfo>
+		</field>
+		<field sid="field-2">
+			<itemlocation>
+				<x>207.00</x>
+				<y>229.00</y>
+				<height>62</height>
+				<width>154</width>
+			</itemlocation>
+			<value>827.860.963-24</value>
+			<label>Cpf:</label>
+			<help>cpf do aluno reingresso</help>
+			<justify>left</justify>
+			<fontinfo>
+				<fontname>Times New Roman</fontname>
+				<size>15</size>
+				<effect>normal</effect>
+			</fontinfo>
+		</field>
+		<field sid="field-3">
+			<itemlocation>
+				<x>212.00</x>
+				<y>484.00</y>
+				<height>62</height>
+				<width>154</width>
+			</itemlocation>
+			<value>35.811.516-4</value>
+			<label>Rg:</label>
+			<help>rg do aluno reingresso</help>
+			<justify>left</justify>
+			<fontinfo>
+				<fontname>Times New Roman</fontname>
+				<size>15</size>
+				<effect>normal</effect>
+			</fontinfo>
+		</field>
+		<field sid="field-4">
+			<itemlocation>
+				<x>305.00</x>
+				<y>227.00</y>
+				<height>62</height>
+				<width>154</width>
+			</itemlocation>
+			<value>Sistemas de Informação</value>
+			<label>Curso:</label>
+			<help>curso do aluno reingresso</help>
+			<justify>left</justify>
+			<fontinfo>
+				<fontname>Times New Roman</fontname>
+				<size>15</size>
+				<effect>normal</effect>
+			</fontinfo>
+		</field>
+		<field sid="field-5">
+			<itemlocation>
+				<x>312.00</x>
+				<y>482.00</y>
+				<height>62</height>
+				<width>154</width>
+			</itemlocation>
+			<value>5</value>
+			<label>Semestre:</label>
+			<help>semestre do aluno reingresso</help>
+			<justify>left</justify>
+			<fontinfo>
+				<fontname>Times New Roman</fontname>
+				<size>15</size>
+				<effect>normal</effect>
+			</fontinfo>
+		</field>
+		<field sid="field-6">
+			<itemlocation>
+				<x>413.00</x>
+				<y>228.00</y>
+				<height>62</height>
+				<width>154</width>
+			</itemlocation>
+			<value>85327327228625</value>
+			<label>Matrícula:</label>
+			<help>matrícula do aluno reingresso</help>
+			<justify>left</justify>
+			<fontinfo>
+				<fontname>Times New Roman</fontname>
+				<size>15</size>
+				<effect>normal</effect>
+			</fontinfo>
+		</field>
+	</page>
+</XFDL>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XFDL version="4.1.0" xmlns:xfdl="http://www.w3.org/TR/NOTE-XFDL" designer="MercuryForms-1.0">	<page sid="PAGE1" title="Requerimento de Segunda Chamada">		<global sid="global">			<label>PAGE1</label>			<fontinfo>				<fontname>Times New Roman</fontname>				<size>12</size>			</fontinfo>		</global>		<label sid="label-0">
+			<itemlocation>
+				<x>28.00</x>
+				<y>335.00</y>
+				<height>70</height>
+				<width>235</width>
+			</itemlocation>
+			<value>Requerimento de Segunda Chamada</value>
+			<justify>center</justify>
+			<fontinfo>
+				<fontname>"Times New Roman"</fontname>
+				<size>20</size>
+				<effect>normal</effect>
+			</fontinfo>
+		</label>		<label sid="label-1">
+			<itemlocation>
+				<x>154.00</x>
+				<y>229.00</y>
+				<height>38</height>
+				<width>93</width>
+			</itemlocation>
+			<value>Aluno</value>
+			<justify>left</justify>
+			<fontinfo>
+				<fontname>"Times New Roman"</fontname>
+				<size>12</size>
+				<effect>normal</effect>
+			</fontinfo>
+		</label>		<label sid="label-3">
+			<itemlocation>
+				<x>233.00</x>
+				<y>231.00</y>
+				<height>34</height>
+				<width>79</width>
+			</itemlocation>
+			<value>Curso</value>
+			<justify>left</justify>
+			<fontinfo>
+				<fontname>"Times New Roman"</fontname>
+				<size>12</size>
+				<effect>normal</effect>
+			</fontinfo>
+		</label>		<label sid="label-5">
+			<itemlocation>
+				<x>323.00</x>
+				<y>237.00</y>
+				<height>20</height>
+				<width>75</width>
+			</itemlocation>
+			<value>Semestre</value>
+			<justify>left</justify>
+			<fontinfo>
+				<fontname>"Times New Roman"</fontname>
+				<size>12</size>
+				<effect>normal</effect>
+			</fontinfo>
+		</label>		<label sid="label-7">
+			<itemlocation>
+				<x>401.00</x>
+				<y>234.00</y>
+				<height>36</height>
+				<width>71</width>
+			</itemlocation>
+			<value>Disciplina</value>
+			<justify>left</justify>
+			<fontinfo>
+				<fontname>"Times New Roman"</fontname>
+				<size>12</size>
+				<effect>normal</effect>
+			</fontinfo>
+		</label>		<field sid="field-2">
+			<itemlocation>
+				<x>152.00</x>
+				<y>359.00</y>
+				<height>47</height>
+				<width>309</width>
+			</itemlocation>
+			<value>João Neto</value>
+			<help>Nome do aluno</help>
+			<justify>start</justify>
+			<fontinfo>
+				<fontname>"Times New Roman"</fontname>
+				<size>15</size>
+				<effect>normal</effect>
+			</fontinfo>
+		</field>		<field sid="field-4">
+			<itemlocation>
+				<x>233.00</x>
+				<y>356.00</y>
+				<height>55</height>
+				<width>297</width>
+			</itemlocation>
+			<value>Sistemas de Informação</value>
+			<help>Curso do aluno</help>
+			<justify>start</justify>
+			<fontinfo>
+				<fontname>"Times New Roman"</fontname>
+				<size>15</size>
+				<effect>normal</effect>
+			</fontinfo>
+		</field>		<field sid="field-6">
+			<itemlocation>
+				<x>323.00</x>
+				<y>354.00</y>
+				<height>43</height>
+				<width>215</width>
+			</itemlocation>
+			<value>6</value>
+			<help>Semestre do aluno</help>
+			<justify>start</justify>
+			<fontinfo>
+				<fontname>"Times New Roman"</fontname>
+				<size>15</size>
+				<effect>normal</effect>
+			</fontinfo>
+		</field>		<field sid="field-8">
+			<itemlocation>
+				<x>406.00</x>
+				<y>352.00</y>
+				<height>43</height>
+				<width>235</width>
+			</itemlocation>
+			<value>Web II</value>
+			<help>Nome da disciplina</help>
+			<justify>start</justify>
+			<fontinfo>
+				<fontname>"Times New Roman"</fontname>
+				<size>15</size>
+				<effect>normal</effect>
+			</fontinfo>
+		</field>	</page>
+</XFDL>

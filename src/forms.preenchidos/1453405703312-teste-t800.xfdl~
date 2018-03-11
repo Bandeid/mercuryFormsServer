@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XFDL version="4.1.0" xmlns:xfdl="http://www.w3.org/TR/NOTE-XFDL" designer="MercuryForms-1.0">	<page sid="PAGE1" title="teste-t800">		<global sid="global">			<label>PAGE1</label>			<fontinfo>				<fontname>Times New Roman</fontname>				<size>12</size>			</fontinfo>		</global>		<radio sid="radio-0">
+			<itemlocation>
+				<x>67.00</x>
+				<y>313.00</y>
+				<height>31</height>
+				<width>128</width>
+			</itemlocation>
+			<value>terminator t-800</value>
+			<label>terminator t-800</label>
+			<help></help>
+			<group>radio_group</group>
+			<justify>left</justify>
+			<fontinfo>
+				<fontname>Times New Roman'</fontname>
+				<size>14</size>
+				<effect>normal</effect>
+			</fontinfo>
+		</radio>	</page>
+</XFDL>

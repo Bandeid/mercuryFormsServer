@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XFDL version="4.1.0" xmlns:xfdl="http://www.w3.org/TR/NOTE-XFDL" designer="MercuryForms-1.0">	<page sid="PAGE1" title="teste-componentes">		<global sid="global">			<label>PAGE1</label>			<fontinfo>				<fontname>Times New Roman</fontname>				<size>12</size>			</fontinfo>		</global>		<label sid="label-1">
+			<itemlocation>
+				<x>32.00</x>
+				<y>104.00</y>
+				<height>19</height>
+				<width>73</width>
+			</itemlocation>
+			<value>Rótulo Textual</value>
+			<justify>left</justify>
+			<fontinfo>
+				<fontname>"Times New Roman"</fontname>
+				<size>12</size>
+				<effect>normal</effect>
+			</fontinfo>
+		</label>		<field sid="field-2">
+			<itemlocation>
+				<x>88.00</x>
+				<y>106.00</y>
+				<height>62</height>
+				<width>154</width>
+			</itemlocation>
+			<value>Campo de Texto</value>
+			<justify>left</justify>
+			<fontinfo>
+				<fontname>"Times New Roman"</fontname>
+				<size>15</size>
+				<effect>normal</effect>
+			</fontinfo>
+		</field>		<radio sid="radio-3">
+			<itemlocation>
+				<x>196.00</x>
+				<y>103.00</y>
+				<height>31</height>
+				<width>107</width>
+			</itemlocation>
+			<value>off</value>
+			<label>Botão Radio</label>
+			<group>radio_group</group>
+			<justify>left</justify>
+			<fontinfo>
+				<fontname>"Times New Roman"</fontname>
+				<size>14</size>
+				<effect>normal</effect>
+			</fontinfo>
+		</radio>	</page>
+</XFDL>

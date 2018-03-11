@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XFDL xmlns:custom="http://www.ibm.com/xmlns/prod/XFDL/Custom"
+      xmlns:designer="http://www.ibm.com/xmlns/prod/workplace/forms/designer/2.6"
+      xmlns:xfdl="http://www.ibm.com/xmlns/prod/XFDL/8.0"
+      xmlns="http://www.ibm.com/xmlns/prod/XFDL/8.0">
+   <globalpage sid="global">
+      <global sid="global">
+         <designer:date>20150901</designer:date>
+         <formid>
+            <title/>
+            <serialnumber>C12E3C71C5EE5D11:54D28D24:14F89C46B9B:-8000</serialnumber>
+            <version>1.0.0</version>
+         </formid>
+         <pageloading>
+            <ondemand>enable</ondemand>
+         </pageloading>
+         <transmitformat>application/vnd.xfdl;content-encoding=base64-gzip</transmitformat>
+         <saveformat>application/vnd.xfdl;content-encoding=base64-gzip</saveformat>
+         <history>
+            <editors>
+               <editor minversion="3.5.1" version="8.0.1">IBM Forms Designer</editor>
+            </editors>
+         </history>
+         <designer:design>
+            <designer:designValue key="XFDLRadioGroupList" xmlns="http://www.ibm.com/xmlns/prod/workplace/forms/designer/2.6">
+               <XFDLRadioGroupList>
+                  <element key="PAGE1.RADIO1_GROUP" value="Novo Grupo de Opções1"/>
+                  <element key="PAGE1.NO" value="Novo Grupo de Opções"/>
+               </XFDLRadioGroupList>
+            </designer:designValue>
+         </designer:design>
+      </global>
+   </globalpage>
+   <page sid="PAGE1">
+      <global sid="global">
+         <label>Requerimento_transferidos_e_graduados</label>
+      </global>
+      <label sid="LABEL1">
+         <itemlocation>
+            <x>299</x>
+            <y>82</y>
+            <width>360</width>
+            <height>95</height>
+         </itemlocation>
+         <value>REQUIREMENTO
+TRANSFERIDOS / GRADUADOS</value>
+         <justify>center</justify>
+         <fontinfo>
+            <fontname>Times New Roman</fontname>
+            <size>14</size>
+            <effect>bold</effect>
+         </fontinfo>
+      </label>
+      <field sid="nome">
+         <itemlocation>
+            <x>203</x>
+            <y>254</y>
+            <width>305</width>
+         </itemlocation>
+         <scrollhoriz>wordwrap</scrollhoriz>
+         <scrollvert>fixed</scrollvert>
+         <value/>
+         <label>Nome: </label>
+         <labelfontinfo>
+            <fontname>Times New Roman</fontname>
+            <size>12</size>
+         </labelfontinfo>
+      </field>
+      <field sid="cpf">
+         <itemlocation>
+            <x>551</x>
+            <y>254</y>
+            <width>197</width>
+            <height>49</height>
+         </itemlocation>
+         <scrollhoriz>wordwrap</scrollhoriz>
+         <scrollvert>fixed</scrollvert>
+         <value/>
+         <label>CPF: </label>
+         <labelfontinfo>
+            <fontname>Times New Roman</fontname>
+            <size>12</size>
+         </labelfontinfo>
+      </field>
+      <field sid="curso">
+         <itemlocation>
+            <x>551</x>
+            <y>351</y>
+            <width>197</width>
+         </itemlocation>
+         <scrollhoriz>wordwrap</scrollhoriz>
+         <scrollvert>fixed</scrollvert>
+         <value/>
+         <label>Curso: </label>
+         <labelfontinfo>
+            <fontname>Times New Roman</fontname>
+            <size>12</size>
+         </labelfontinfo>
+      </field>
+      <radio sid="RADIO1">
+         <itemlocation>
+            <x>203</x>
+            <y>354</y>
+         </itemlocation>
+         <value>off</value>
+         <group>RADIO1_GROUP</group>
+         <label>TRANSFERIDOS:</label>
+         <labelfontinfo>
+            <fontname>Times New Roman</fontname>
+            <size>12</size>
+         </labelfontinfo>
+      </radio>
+      <radio sid="RADIO2">
+         <itemlocation>
+            <x>383</x>
+            <y>354</y>
+         </itemlocation>
+         <value>off</value>
+         <group>RADIO1_GROUP</group>
+         <label>GRADUADO:</label>
+         <labelfontinfo>
+            <fontname>Times New Roman</fontname>
+            <size>12</size>
+         </labelfontinfo>
+      </radio>
+      <spacer sid="vfd_spacer">
+         <itemlocation>
+            <x>960</x>
+            <y>1260</y>
+            <width>1</width>
+            <height>1</height>
+         </itemlocation>
+      </spacer>
+   </page>
+</XFDL>

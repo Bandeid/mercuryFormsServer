@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XFDL version="4.1.0" xmlns:xfdl="http://www.w3.org/TR/NOTE-XFDL" designer="MercuryForms-1.0">	<page sid="PAGE1" title="teste">		<global sid="global">			<label>PAGE1</label>			<fontinfo>				<fontname>Times New Roman</fontname>				<size>12</size>			</fontinfo>		</global>		<label sid="label-0">
+			<itemlocation>
+				<x>45.00</x>
+				<y>288.00</y>
+				<height>19</height>
+				<width>73</width>
+			</itemlocation>
+			<value>Aluno</value>
+			<help></help>
+			<justify>left</justify>
+			<fontinfo>
+				<fontname>"Times New Roman"</fontname>
+				<size>12</size>
+				<effect>normal</effect>
+			</fontinfo>
+		</label>		<field sid="field-1">
+			<itemlocation>
+				<x>130.00</x>
+				<y>242.00</y>
+				<height>62</height>
+				<width>154</width>
+			</itemlocation>
+			<value></value>
+			<label></label>
+			<help>nome aluno</help>
+			<justify>left</justify>
+			<fontinfo>
+				<fontname>"Times New Roman"</fontname>
+				<size>15</size>
+				<effect>normal</effect>
+			</fontinfo>
+		</field>	</page>
+</XFDL>
